@@ -19,6 +19,7 @@ let num = 0
 basic.showIcon(IconNames.Heart)
 num = 0
 basic.showNumber(num)
+basic.showIcon(IconNames.Sad)
 basic.forever(function () {
 	
 })
